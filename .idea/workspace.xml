@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc9dea0c-471f-4705-af02-31f9bc6dd214" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/awesome-all.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/example-all.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-all.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/spring-boot-graphql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/java/com/github/hykes/demo/graphql/GraphqlApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/java/com/github/hykes/demo/graphql/controller/DateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/java/com/github/hykes/demo/graphql/model/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/java/com/github/hykes/demo/graphql/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/java/com/github/hykes/demo/graphql/resolver/BookQueryResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/resources/root.graphqls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-graphql/src/main/resources/schema.graphqls" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&amp;quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YnMSN2X4y9ljjni4FzdfM6sRqH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\awesome-all" />
+      <recent name="D:\Workspaces\awesome-all\crypto\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GraphqlApplication">
+    <configuration name="LOBTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.hykes.common.web.LOBTest" />
+      <module name="example-all" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.hykes.common.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphqlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-graphql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.hykes.demo.graphql.resolver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.hykes.demo.graphql.GraphqlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GraphqlApplication" />
+        <item itemvalue="Application.LOBTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc9dea0c-471f-4705-af02-31f9bc6dd214" name="Default" comment="" />
+      <created>1547824384281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547824384281</updated>
+      <workItem from="1547824393906" duration="3326000" />
+      <workItem from="1547828816549" duration="807000" />
+      <workItem from="1556342340399" duration="4823000" />
+      <workItem from="1563626381219" duration="211000" />
+      <workItem from="1575639598036" duration="598000" />
+      <workItem from="1575645644342" duration="475000" />
+      <workItem from="1575646297470" duration="221000" />
+      <workItem from="1576417284310" duration="352000" />
+      <workItem from="1576418588023" duration="2638000" />
+      <workItem from="1582630590310" duration="6000" />
+      <workItem from="1583571745531" duration="650000" />
+      <workItem from="1583573918403" duration="154000" />
+      <workItem from="1583574143373" duration="51000" />
+      <workItem from="1583574221988" duration="208000" />
+      <workItem from="1583574484227" duration="169000" />
+      <workItem from="1583574684443" duration="277000" />
+      <workItem from="1583575025629" duration="12000" />
+      <workItem from="1583675742193" duration="49000" />
+      <workItem from="1583675824186" duration="2206000" />
+      <workItem from="1583761065037" duration="41000" />
+      <workItem from="1583849150824" duration="736000" />
+      <workItem from="1584021472208" duration="1193000" />
+      <workItem from="1584026395459" duration="49000" />
+      <workItem from="1584116471349" duration="6427000" />
+      <workItem from="1584279531557" duration="2953000" />
+      <workItem from="1584283867884" duration="12000" />
+      <workItem from="1584711914086" duration="609000" />
+      <workItem from="1585054908071" duration="8079000" />
+      <workItem from="1585063115678" duration="388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Notifications" timestamp="1585063139128">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1585063139128" />
+    <state x="406" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585055814484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585055814484" />
+    <state x="363" y="93" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583676131189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="93" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1583676131189" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1584179123288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584179123288" />
+    <state width="1323" height="303" key="GridCell.Tab.0.bottom" timestamp="1585063361865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="303" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585063361865" />
+    <state width="1323" height="303" key="GridCell.Tab.0.center" timestamp="1585063361865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="303" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585063361865" />
+    <state width="1323" height="303" key="GridCell.Tab.0.left" timestamp="1585063361865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="303" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585063361865" />
+    <state width="1323" height="303" key="GridCell.Tab.0.right" timestamp="1585063361865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="303" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585063361865" />
+    <state width="1323" height="303" key="GridCell.Tab.1.bottom" timestamp="1585063361865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="303" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585063361865" />
+    <state width="1323" height="303" key="GridCell.Tab.1.center" timestamp="1585063361865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="303" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585063361865" />
+    <state width="1323" height="303" key="GridCell.Tab.1.left" timestamp="1585063361865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="303" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585063361865" />
+    <state width="1323" height="303" key="GridCell.Tab.1.right" timestamp="1585063361865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="303" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585063361865" />
+    <state width="1323" height="303" key="GridCell.Tab.2.bottom" timestamp="1585063361865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="303" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585063361865" />
+    <state width="1323" height="303" key="GridCell.Tab.2.center" timestamp="1585063361865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="303" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1585063361865" />
+    <state width="1323" height="303" key="GridCell.Tab.2.left" timestamp="1585063361865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="303" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1585063361865" />
+    <state width="1323" height="303" key="GridCell.Tab.2.right" timestamp="1585063361865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="303" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1585063361865" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1584179126475">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584179126475" />
+    <state x="168" y="98" width="971" height="592" key="new project wizard" timestamp="1585055355804">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="168" y="98" width="971" height="592" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585055355804" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1585055921029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585055921029" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585062103534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585062103534" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.github.hykes:ws-client:1.1-SNAPSHOT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
