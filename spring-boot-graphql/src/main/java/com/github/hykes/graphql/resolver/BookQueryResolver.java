@@ -1,9 +1,9 @@
-package com.github.hykes.demo.graphql.resolver;
+package com.github.hykes.graphql.resolver;
 
 
 import com.coxautodev.graphql.tools.GraphQLQueryResolver;
-import com.github.hykes.demo.graphql.model.Author;
-import com.github.hykes.demo.graphql.model.Book;
+import com.github.hykes.graphql.entity.Author;
+import com.github.hykes.graphql.entity.Book;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
@@ -15,26 +15,27 @@ import java.util.List;
  */
 @Component
 public class BookQueryResolver implements GraphQLQueryResolver {
+
     public List<Book> findBooks() {
         Author author = Author.builder()
-                .id(1)
+                .id(1L)
                 .name("Bill Venners")
                 .age(40)
                 .build();
         Book b = Book.builder()
-                .id(1)
+                .id(1L)
                 .name("scala编程第三版")
                 .author(author)
                 .publisher("电子工业出版社")
                 .build();
 
         Author author2 = Author.builder()
-                .id(1)
+                .id(1L)
                 .name("Bill Venners")
                 .age(40)
                 .build();
         Book b2 = Book.builder()
-                .id(1)
+                .id(1L)
                 .name("scala编程第四版")
                 .author(author2)
                 .publisher("电子工业出版社")
@@ -44,4 +45,5 @@ public class BookQueryResolver implements GraphQLQueryResolver {
         bookList.add(b2);
         return bookList;
     }
+
 }

@@ -1,3 +1,9 @@
 type Query {
     findBooks: [Book]
 }
+
+type Mutation {
+
+    saveBook: Book
+
+}

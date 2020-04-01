@@ -1,4 +1,4 @@
-package com.github.hykes.demo.graphql;
+package com.github.hykes.graphql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
