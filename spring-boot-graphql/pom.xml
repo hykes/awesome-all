@@ -15,7 +15,7 @@
         <graphql-spring-boot-starter.version>6.0.1</graphql-spring-boot-starter.version>
         <graphql-java-tools.version>5.7.1</graphql-java-tools.version>
 
-        <mysql-connector-java.version>5.1.46</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
         <hikaricp.version>2.4.7</hikaricp.version>
     </properties>
 
